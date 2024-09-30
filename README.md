@@ -1,4 +1,4 @@
-<html>
+![sci human](https://github.com/user-attachments/assets/646d44c3-bc2f-4abf-ac2e-bda1612cfd7f)<html>
 <head><title> E-PORTFOLIO</title></head>
 <body bgcolor="#9E829C"> 
 <h1><b> ₊‧°𐐪♡𐑂°‧₊ my e-portfolio - ict ₊‧°𐐪♡𐑂°‧₊</b></h1>
@@ -20,6 +20,7 @@ First Quarter
 <h2> about me ᡣ • . • 𐭩 ♡ </h2>
 
 <table border="4" cellpadding="5" width="500" align="center">
+
 <tr>
 <td>   @ celine  ౨ৎ <br>
   09.08.10﹒she/her<br>
@@ -412,3 +413,5 @@ I hope to have a better time next Second quarter!
 ![brigada](https://github.com/user-attachments/assets/ef4d2554-4cb3-4078-984e-af34b92425dd)
 ![brigada me](https://github.com/user-attachments/assets/3f6394df-363b-4813-b73f-04c107f2e608)
 ![brigada 3](https://github.com/user-attachments/assets/12848485-fdf5-4457-b65b-2e91c48ecba3)
+
+![sci human](https://github.com/user-attachments/assets/48579c65-4d85-4049-8910-a79bd34a56c1)
